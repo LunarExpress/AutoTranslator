@@ -1,0 +1,7 @@
+E:\VsProjects\AutoTranslate\bin\Release\net6.0-windows\publish\AutoTranslate.exe
+E:\VsProjects\AutoTranslate\bin\Release\net6.0-windows\publish\AutoTranslate.dll
+E:\VsProjects\AutoTranslate\bin\Release\net6.0-windows\publish\AutoTranslate.deps.json
+E:\VsProjects\AutoTranslate\bin\Release\net6.0-windows\publish\AutoTranslate.runtimeconfig.json
+E:\VsProjects\AutoTranslate\bin\Release\net6.0-windows\publish\AutoTranslate.pdb
+E:\VsProjects\AutoTranslate\bin\Release\net6.0-windows\publish\FolderBrowserForWPF.dll
+E:\VsProjects\AutoTranslate\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll
